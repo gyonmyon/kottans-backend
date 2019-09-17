@@ -17,10 +17,10 @@ I've finished the **UNIX Shell** part of the online course and, honestly, I was 
 
 Quiz | Module
 ------------ | -------------
-[Quiz 1](/task_unix_shell/quiz_1.png) | [Module 1](https://github.com/gyonmyon/kottans-backend/blob/master/task_unix_shell/module_1.png)
-[Quiz 2](/task_unix_shell/quiz_2.png) | [Module 2](https://github.com/gyonmyon/kottans-backend/blob/master/task_unix_shell/module_2.png)
-[Quiz 3](/task_unix_shell/quiz_3.png) | [Module 3](https://github.com/gyonmyon/kottans-backend/blob/master/task_unix_shell/module_3.png)
-[Quiz 4](/task_unix_shell/quiz_4.png) | [Conclusion](https://github.com/gyonmyon/kottans-backend/blob/master/task_unix_shell/conclusion.png)
+[Quiz 1](/task_unix_shell/quiz_1.png) | [Module 1](/task_unix_shell/module_1.png)
+[Quiz 2](/task_unix_shell/quiz_2.png) | [Module 2](/task_unix_shell/module_2.png)
+[Quiz 3](/task_unix_shell/quiz_3.png) | [Module 3](/task_unix_shell/module_3.png)
+[Quiz 4](/task_unix_shell/quiz_4.png) | [Conclusion](/task_unix_shell/conclusion.png)
 
 ## Meta
 [@gzomgzon](https://t.me/gzomgzon) – gzomgzon@gmail.com
